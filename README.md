@@ -1,5 +1,5 @@
 # Suicide Rates 1985-2016 Analysis
-Analysis of Suicide Rates from 1985 to 2016 showing insights by year, age group, sex, generation, country, population, gdp per capita.
+Analysis of Suicide Rates from 1985 to 2016 showing insights by year, age group, sex, generation, country, population, GDP (Gross Domestic Product) per capita.
 
 ## Data Source
 The dataset you can check [here](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016) in csv format and loaded directly into Tableau.
